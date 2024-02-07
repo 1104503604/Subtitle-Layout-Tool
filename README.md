@@ -3,7 +3,7 @@
 ![alt text](./images/ScreenClip.png)
 
 下载的srt打开一般是这样的：
-![alt text](./images//Image.png)
+![alt text](./images/Image.png)
 
 排版好之后是这样的：
 ![alt text](./images/Image-1.png)
